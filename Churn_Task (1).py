@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# vk0c109161@techmahindra.com
+
 
 # In[1]:
 
